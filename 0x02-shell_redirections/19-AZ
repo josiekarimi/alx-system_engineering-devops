@@ -1,2 +1,14 @@
 #!/bin/bash
-echo "input" | tr 'Ac' 'Ze'
+$ echo "Academia" | tr 'Ac' 'Ze' 'ce' 'e'
+
+
+
+
+
+
+
+
+
+
+
+
