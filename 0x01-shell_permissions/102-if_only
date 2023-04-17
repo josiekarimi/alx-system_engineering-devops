@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# Set the file path and desired owner
+file_path="./hello"
+owner="betty"
+
+# Get the current owner of the file
+current_owner=$(stat -c '%U' $file_path)
+
+# Check if the current owner is guillaume
+if [ "$current_owner" = "guillaume" ]; then
+  # Change the owner of the file to betty
+  chown $owner $file_path
+  echo "File owner changed to $owner"
+else
+  echo "File is not owned by guillaume"
+fi
