@@ -1,0 +1,35 @@
+total 0
+-rw-r--r-- 1 josie josie   12 Apr 17 21:56 *'Best School'*$?******:)
+drwxr-xr-x 1 josie josie 4096 Apr 18 01:10 .
+drwxr-xr-x 1 josie josie 4096 Apr 17 21:12 ..
+-rwxr-xr-x 1 josie josie   32 Apr 17 21:12 0-hello_world
+-rwxr-xr-x 1 josie josie   26 Apr 17 21:12 1-confused_smiley
+-rwxr--r-- 1 josie josie   48 Apr 17 22:06 10-no_more_js
+-rwxr--r-- 1 josie josie  111 Apr 18 00:41 100-empty_casks
+-rwxr--r-- 1 josie josie  190 Apr 18 00:49 101-gifs
+-rwxr--r-- 1 josie josie   59 Apr 18 00:53 102-acrostic
+-rwxr--r-- 1 josie josie   83 Apr 18 00:59 103-the_biggest_fan
+-rwxr--r-- 1 josie josie   62 Apr 17 22:11 11-directories
+-rwxr--r-- 1 josie josie   29 Apr 17 22:14 12-newest_files
+-rwxr--r-- 1 josie josie   47 Apr 17 22:20 13-unique
+-rwxr--r-- 1 josie josie   37 Apr 17 22:56 14-findthatword
+-rwxr--r-- 1 josie josie   36 Apr 17 22:59 15-countthatword
+-rwxr--r-- 1 josie josie   39 Apr 17 23:03 16-whatsnext
+-rwxr--r-- 1 josie josie   36 Apr 17 23:06 17-hidethisword
+-rwxr--r-- 1 josie josie   50 Apr 17 23:09 18-letteronly
+-rwxr--r-- 1 josie josie   40 Apr 17 23:12 19-AZ
+-rwxr--r-- 1 josie josie   28 Apr 17 21:17 2-hellofile
+-rwxr--r-- 1 josie josie   23 Apr 18 00:01 20-hiago
+-rwxr--r-- 1 josie josie   50 Apr 18 00:37 21-reverse
+-rwxr--r-- 1 josie josie   58 Apr 17 23:25 22-users_and_homes
+-rwxr--r-- 1 josie josie   43 Apr 17 21:28 3-twofiles
+-rwxr--r-- 1 josie josie   35 Apr 17 21:33 4-lastlines
+-rwxr--r-- 1 josie josie   35 Apr 17 21:35 5-firstlines
+-rwxr--r-- 1 josie josie   49 Apr 17 21:48 6-third_line
+-rwxr--r-- 1 josie josie   70 Apr 17 21:55 7-file
+-rwxr--r-- 1 josie josie   36 Apr 18 01:10 8-cwd_state
+-rwxr--r-- 1 josie josie   41 Apr 17 22:03 9-duplicate_last_line
+-rw-r--r-- 1 josie josie   36 Apr 17 21:12 README.md
+-rw-r--r-- 1 josie josie    0 Apr 17 21:46 iacta
+-rw-r--r-- 1 josie josie  168 Apr 17 22:46 list
+-rw-r--r-- 1 josie josie    0 Apr 18 01:10 ls_cwd_content
