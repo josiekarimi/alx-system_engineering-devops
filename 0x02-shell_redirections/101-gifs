@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type f -iname '*.gif' -exec basename {} .gif \; | LC_COLLATE=C sort -f | tr '\n' '\0' | xargs -0 du -b | sort -n | cut -f2- -z | xargs -0 -I{} echo {} | sed 's/\.gif$//'
