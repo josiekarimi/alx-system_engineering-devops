@@ -1,5 +1,5 @@
 #!/bin/bash
-$ echo "Academia" | tr 'Ac' 'Ze' 'ce' 'e'
+tr Ze Ac
 
 
 
