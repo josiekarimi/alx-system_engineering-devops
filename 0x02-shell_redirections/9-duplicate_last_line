@@ -1,2 +1,2 @@
 #!/bin/bash
-last_line=$(tail -n1 iacta)
+tail -n 1 iacta | cat >> iacta
