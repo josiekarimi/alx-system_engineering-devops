@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '#!/ova/onfu' | tr 'N-Mn-m' 'A-MN-Za-mn-z'
+echo "hello world" | tr 'A-Za-z' 'N-ZA-Mn-za-m'
